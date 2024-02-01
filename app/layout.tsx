@@ -6,7 +6,7 @@ import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: 'Tarazaki Security Services',
-  description: 'Tarazaki security services is a company provides affordable well trained security guards who will protect the people and places you love.',
+  description: 'Tarazaki security services is a company in Kenya that provides affordable well trained security guards who will protect the people and places you love.',
 }
 
 export default function RootLayout({

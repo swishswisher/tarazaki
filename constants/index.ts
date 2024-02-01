@@ -36,7 +36,7 @@ export const NAV_LINKS = [
       icon: '/enterprisesecurity.svg',
       variant: 'orange',
       description:
-        'We take the worry of your shoulders by protecting your businesses and let you focus on making money for yourself and the people you love ',
+        'We take the worry off your shoulders by protecting your businesses and let you focus on making money for yourself and the people you love ',
     },
   ];
   
@@ -69,4 +69,5 @@ export const NAV_LINKS = [
       '/instagram.svg',
       '/twitter.svg',
     ],
+    
   };

@@ -163,3 +163,6 @@ body {
 .bg-img{
   background-image: url('/pattern-bg.png');
 }
+.contactus-bg{
+  background-image: url('/contactusbg.png')
+}
