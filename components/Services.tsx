@@ -5,7 +5,7 @@ import React from 'react'
 const Services = () => {
   return (
     <section className="flex-col flexCenter overflow-hidden bg-center bg-cover bg-no-repeat z-10 bg-img pb-5">
-      <div className="z-1 flex w-full text-center items-center justify-center  bg-black/80 ">
+      <div className="z-1 flex w-full text-center items-center justify-center bg-brown/80 ">
           <h2 className="bold-40 lg:bold-64 items-center backdrop-blur-md p-4 rounded-md text-center text-white">Our Services</h2>
       </div>
       
